@@ -2,6 +2,10 @@
 
 Created a News App using Recycler View
 
+<img width="356" alt="Screenshot 2023-05-02 at 10 54 13 PM" src="https://user-images.githubusercontent.com/124916476/235739906-ead55c57-00c7-40cd-94cf-e9204d318127.png">.      <img width="364" alt="Screenshot 2023-05-02 at 10 56 12 PM" src="https://user-images.githubusercontent.com/124916476/235739931-7b38f7f5-4990-417b-86d9-43635a6cd7d7.png">
+
+
+
 RECYCLER VIEW IN KOTLIN : 
 
 In this article, you will know how to implement RecyclerView in Android using Kotlin. Before moving further let us know about RecyclerView. A RecyclerView is an advanced version of ListView with improved performance. When you have a long list of items to show you can use RecyclerView. It has the ability to reuse its views. In RecyclerView when the View goes out of the screen or not visible to the user it won’t destroy it, it will reuse these views. This feature helps in reducing power consumption and providing more responsiveness to the application. Now let’s see how to implement RecyclerView using Kotlin.
